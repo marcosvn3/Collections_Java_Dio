@@ -1,4 +1,4 @@
-package atividade_ListaDeTarefas;
+package List.atividade_ListaDeTarefas;
 
 import java.util.ArrayList;
 import java.util.List;

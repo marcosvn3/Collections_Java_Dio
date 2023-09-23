@@ -1,6 +1,4 @@
-package atividade_ListaDeTarefas;
-
-import java.util.List;
+package List.atividade_ListaDeTarefas;
 
 public class Main {
     public static void main(String []args ){
