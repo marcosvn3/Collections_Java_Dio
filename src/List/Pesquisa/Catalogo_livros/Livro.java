@@ -34,8 +34,6 @@ public class Livro {
     public void setAnoPublicacao(int ano) {
         this.anoPublicacao = ano;
     }
-
-
     @Override
     public String toString() {
         return "Livro" +

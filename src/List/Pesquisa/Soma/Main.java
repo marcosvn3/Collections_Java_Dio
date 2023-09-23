@@ -8,9 +8,7 @@ public class Main {
         somados.adicionarNumero(220);
         somados.adicionarNumero(330);
         somados.adicionarNumero(4900);
-       somados.adicionarNumero(560);
-
-
+        somados.adicionarNumero(560);
 
         System.out.println("Soma dos numeros : " + somados.calcularSoma());
         System.out.println("--------------------------------");

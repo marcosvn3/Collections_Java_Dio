@@ -13,6 +13,5 @@ public class Main {
         System.out.println(catalogo.pesquisaPorIntervalosAno(1984,2020));
         System.out.println(catalogo.pesquisarPorAutor("jorginho"));
 
-
     }
 }

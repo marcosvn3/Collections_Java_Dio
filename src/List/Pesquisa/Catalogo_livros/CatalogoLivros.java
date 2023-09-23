@@ -38,7 +38,6 @@ public class CatalogoLivros {
         return livrosPorIntervalo;
     }
 
-
     public void pesquisaPorTtitulo(String titulo){
         for(Livro l : listaLivro){
             if(l.getTitulo() == titulo){

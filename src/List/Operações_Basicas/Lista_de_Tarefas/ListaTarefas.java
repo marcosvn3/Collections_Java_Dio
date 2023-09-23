@@ -36,7 +36,9 @@ public class ListaTarefas {
     public void obterDescricaoTarefa(){
         for(Tarefa t : tarefaList){
             System.out.println(t.getDescricao());
+
         }
+
     }
 
 }
