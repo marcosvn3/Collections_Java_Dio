@@ -34,9 +34,11 @@ public class SomaNumeros {
     }
 
     public int encontrarMenorNumero() {
+        //TODO: Se lista estiver vazia return 0
             if(listNumero.isEmpty()){
                 return 0;
             }else{
+                //TODO: Senao define o primeiro numero da lista como menor e faz as devidas comparações!
                 int menor = listNumero.get(0);
                 for (int t : listNumero) {
                     if (t <= menor) {
