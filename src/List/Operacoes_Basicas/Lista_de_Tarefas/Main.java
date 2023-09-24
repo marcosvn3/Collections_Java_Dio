@@ -1,4 +1,4 @@
-package List.Operações_Basicas.Lista_de_Tarefas;
+package List.Operacoes_Basicas.Lista_de_Tarefas;
 
 public class Main {
     public static void main(String []args ){
