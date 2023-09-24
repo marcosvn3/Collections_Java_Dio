@@ -24,6 +24,7 @@ public class OrdenacaoNumeros implements Comparable<Integer> {
         return ordenada;
     }
 
+    //TODO DESCOBRIR COMO IMPRIMIR DO MAIOR PARA O MENOR!!
     public List<Integer> ordenarDescendente(){
         List<Integer>ordenada = new ArrayList<>(listNum);
 
