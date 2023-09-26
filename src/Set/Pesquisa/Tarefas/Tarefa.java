@@ -27,6 +27,6 @@ public class Tarefa {
     @Override
     public String toString() {
         return  "descricao: " + descricao + '\'' +
-                "| tarefaConcluida: " + tarefaConcluida ;
+                "-> tarefaConcluida? " + tarefaConcluida ;
     }
 }
