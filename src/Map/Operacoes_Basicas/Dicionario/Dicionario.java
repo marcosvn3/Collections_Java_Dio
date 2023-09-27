@@ -28,7 +28,6 @@ public class Dicionario {
         System.out.println(dicionario);
     }
 
-
     public String pesquisarPorPalavra(String palavra){
         String def = null;
         if(!dicionario.isEmpty()){

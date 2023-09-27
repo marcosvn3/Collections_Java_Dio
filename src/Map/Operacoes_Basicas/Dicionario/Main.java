@@ -8,7 +8,6 @@ public class Main {
         list.adicionarPalavra("Falar", "Emitir som");
         list.adicionarPalavra("Locomover","Andar" );
 
-
         list.exibirPalavras();
 
         System.out.println(("------------------------------------------------------------------------"));
